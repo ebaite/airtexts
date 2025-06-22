@@ -18,5 +18,5 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/airtexts.git
+git clone https://github.com/ebaite/airtexts.git
 cd airtexts
